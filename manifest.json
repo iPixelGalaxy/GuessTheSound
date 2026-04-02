@@ -1,0 +1,69 @@
+{
+  "version": 1,
+  "sounds": [
+    {
+      "id": "discord_call",
+      "title": "Discord Call",
+      "answer": "Discord Call",
+      "aliases": [],
+      "choices": [],
+      "url": "sounds/discord-call.mp3"
+    },
+    {
+      "id": "creeper",
+      "title": "Creeper",
+      "answer": "Creeper",
+      "aliases": [],
+      "choices": [],
+      "url": "sounds/creeper.mp3"
+    },
+    {
+      "id": "discord_join_call",
+      "title": "Discord Join Call",
+      "answer": "Discord Join Call",
+      "aliases": [],
+      "choices": [],
+      "url": "sounds/discord-join-call.mp3"
+    },
+    {
+      "id": "discord_leave_call",
+      "title": "Discord Leave Call",
+      "answer": "Discord Leave Call",
+      "aliases": [],
+      "choices": [],
+      "url": "sounds/discord-leave-call.mp3"
+    },
+    {
+      "id": "linus_tech_tips_intro",
+      "title": "LinusTechTips Intro",
+      "answer": "LinusTechTips Intro",
+      "aliases": [],
+      "choices": [],
+      "url": "sounds/linus-tech-tips-intro.mp3"
+    },
+    {
+      "id": "skype_call",
+      "title": "Skype Call",
+      "answer": "Skype Call",
+      "aliases": [],
+      "choices": [],
+      "url": "sounds/skype-call.mp3"
+    },
+    {
+      "id": "awww_thats_hot",
+      "title": "Awww That's Hot",
+      "answers": ["Will Smith", "Fortnite", "YouTube Rewind"],
+      "aliases": [],
+      "choices": [],
+      "url": "sounds/awww-thats-hot.mp3"
+    },
+    {
+      "id": "hanime",
+      "title": "Hanime",
+      "answer": "Hanime",
+      "aliases": [],
+      "choices": [],
+      "url": "sounds/hanime.mp3"
+    }
+  ]
+}
