@@ -5,65 +5,73 @@
       "id": "discord_call",
       "title": "Discord Call",
       "answer": "Discord Call",
-      "aliases": [],
-      "choices": [],
-      "url": "sounds/discord-call.mp3"
+      "answers": ["Discord Call", "Discord", "Call"],
+      "aliases": ["Discord"],
+      "choices": ["Discord Call", "Creeper", "Skype Call", "Hanime"],
+      "url": "https://ipixelgalaxy.github.io/GuessTheSound/sounds/discord-call.mp3"
     },
     {
       "id": "creeper",
       "title": "Creeper",
       "answer": "Creeper",
+      "answers": ["Creeper"],
       "aliases": [],
-      "choices": [],
-      "url": "sounds/creeper.mp3"
+      "choices": ["Creeper", "Discord Call", "Skype Call", "Hanime"],
+      "url": "https://ipixelgalaxy.github.io/GuessTheSound/sounds/creeper.mp3"
     },
     {
       "id": "discord_join_call",
       "title": "Discord Join Call",
       "answer": "Discord Join Call",
-      "aliases": [],
-      "choices": [],
-      "url": "sounds/discord-join-call.mp3"
+      "answers": ["Discord Join Call", "Join Call", "Discord Join"],
+      "aliases": ["Join Call"],
+      "choices": ["Discord Join Call", "Discord Leave Call", "Discord Call", "Skype Call"],
+      "url": "https://ipixelgalaxy.github.io/GuessTheSound/sounds/discord-join-call.mp3"
     },
     {
       "id": "discord_leave_call",
       "title": "Discord Leave Call",
       "answer": "Discord Leave Call",
-      "aliases": [],
-      "choices": [],
-      "url": "sounds/discord-leave-call.mp3"
+      "answers": ["Discord Leave Call", "Leave Call", "Discord Leave"],
+      "aliases": ["Leave Call"],
+      "choices": ["Discord Leave Call", "Discord Join Call", "Discord Call", "Skype Call"],
+      "url": "https://ipixelgalaxy.github.io/GuessTheSound/sounds/discord-leave-call.mp3"
     },
     {
       "id": "linus_tech_tips_intro",
       "title": "LinusTechTips Intro",
       "answer": "LinusTechTips Intro",
-      "aliases": [],
-      "choices": [],
-      "url": "sounds/linus-tech-tips-intro.mp3"
+      "answers": ["LinusTechTips Intro", "LTT Intro", "Linus Intro"],
+      "aliases": ["LTT Intro"],
+      "choices": ["LinusTechTips Intro", "Skype Call", "Creeper", "Discord Call"],
+      "url": "https://ipixelgalaxy.github.io/GuessTheSound/sounds/linus-tech-tips-intro.mp3"
     },
     {
       "id": "skype_call",
       "title": "Skype Call",
       "answer": "Skype Call",
+      "answers": ["Skype Call", "Skype"],
       "aliases": [],
-      "choices": [],
-      "url": "sounds/skype-call.mp3"
+      "choices": ["Skype Call", "Discord Call", "Creeper", "Hanime"],
+      "url": "https://ipixelgalaxy.github.io/GuessTheSound/sounds/skype-call.mp3"
     },
     {
       "id": "awww_thats_hot",
       "title": "Awww That's Hot",
-      "answers": ["Will Smith", "Fortnite", "YouTube Rewind"],
-      "aliases": [],
-      "choices": [],
-      "url": "sounds/awww-thats-hot.mp3"
+      "answer": "Awww That's Hot",
+      "answers": ["Awww That's Hot", "That's Hot"],
+      "aliases": ["Thats Hot"],
+      "choices": ["Awww That's Hot", "Creeper", "Discord Call", "Hanime"],
+      "url": "https://ipixelgalaxy.github.io/GuessTheSound/sounds/awww-thats-hot.mp3"
     },
     {
       "id": "hanime",
       "title": "Hanime",
       "answer": "Hanime",
+      "answers": ["Hanime"],
       "aliases": [],
-      "choices": [],
-      "url": "sounds/hanime.mp3"
+      "choices": ["Hanime", "Discord Call", "Skype Call", "Creeper"],
+      "url": "https://ipixelgalaxy.github.io/GuessTheSound/sounds/hanime.mp3"
     }
   ]
 }
